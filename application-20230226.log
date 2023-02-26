@@ -1,0 +1,5 @@
+2023-02-26 02:56:41.409 [main] WARN  telran.util.RandomAccountsCreationAppl - file: accounts.json already exist
+2023-02-26 02:56:54.592 [main] INFO  telran.util.RandomAccountsCreationAppl - creating: 50 accounts
+2023-02-26 02:56:54.629 [main] INFO  telran.util.RandomAccountsCreationAppl - saving accounts to a file: accounts.json
+2023-02-26 03:04:24.488 [main] INFO  telran.util.RandomAccountsCreationAppl - creating: 50 accounts
+2023-02-26 03:04:24.519 [main] INFO  telran.util.RandomAccountsCreationAppl - saving accounts to a file: accounts.json
